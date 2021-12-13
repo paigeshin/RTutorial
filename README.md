@@ -7,7 +7,7 @@
 5. Data Frames
 6. Lists
 7. Working with real data
-8. Functions 
+8. Functions
 
 ### Practice
 
@@ -19,9 +19,9 @@
 6. [List](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%209%20-%20Lists/Lists%20Udemy%20Coding%20Exercise%20Solutions.R)
 7. [Working with Data Frames](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2010%20-%20Working%20with%20Data%20Frames/Working%20with%20Data%20Frames%20Udemy%20Coding%20Exercise%20Solutions.R)
 8. [Create Data Pipelines](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2013%20-%20Creating%20a%20Data%20Pipeline/Creating%20a%20Data%20Pipeline%20Udemy%20Coding%20Exercise%20Solutions.R)
-9. [Functions 1](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2016%20-%20Functions/Functions%20Udemy%20Coding%20Exercise%201%20Solutions.R) 
+9. [Functions 1](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2016%20-%20Functions/Functions%20Udemy%20Coding%20Exercise%201%20Solutions.R)
 10. [Functions 2](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2016%20-%20Functions/Functions%20Udemy%20Coding%20Exercise%202%20Solutions.R)
-11. [Functions 3](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2016%20-%20Functions/Functions%20Udemy%20Coding%20Exercise%203%20Solutions.R) 
+11. [Functions 3](https://github.com/paigeshin/RTutorial/blob/master/R%20Programming%20-%20A%20gentle%20Introduction/Udemy%20Platform%20Coding%20Exercises%20Solutions/Section%2016%20-%20Functions/Functions%20Udemy%20Coding%20Exercise%203%20Solutions.R)
 
 ### Introduction
 
@@ -37,7 +37,7 @@
 
 [Calculator Quiz](https://www.notion.so/Calculator-Quiz-a08dff737b4a40faa1e100d67310d0ae)
 
-[Quiz](https://www.udemy.com/course/r-for-absolute-beginners/learn/quiz/4938470#overview) - Calculator 
+[Quiz](https://www.udemy.com/course/r-for-absolute-beginners/learn/quiz/4938470#overview) - Calculator
 
 [Test Sheet](https://www.udemy.com/course/r-for-absolute-beginners/learn/lecture/21829816#overview)
 
@@ -118,3 +118,17 @@
 [List Summary](https://www.notion.so/List-Summary-66ceb3c773824548ab73b58d75c6f001)
 
 [List Test](https://www.notion.so/List-Test-29c72b8f441847a8a5ff84eb2dd4abf3)
+
+### Library
+
+[Library](https://www.notion.so/Library-a17c24f411a54b5bafea0681dea788c9)
+
+[Library Quiz](https://www.udemy.com/course/r-for-absolute-beginners/learn/quiz/5000344#overview)
+
+### Work with data frame
+
+[Data Frame Summary](https://www.notion.so/Data-Frame-Summary-e36b3d87d5484ca08216782c46ca836b)
+
+[Dataframe Quiz](https://www.udemy.com/course/r-for-absolute-beginners/learn/quiz/5000690#overview)
+
+[Data Frame Test](https://www.notion.so/Data-Frame-Test-d28235f44e2f4cccaa01abea5b68b648)
